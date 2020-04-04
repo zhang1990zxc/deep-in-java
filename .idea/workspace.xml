@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91e962ae-b162-454e-ad96-fa1eb557645d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-1/lesson-1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-1/lesson-1/src/main/java/com/zhang/deep/in/java/FunctionMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-1/stage-1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage-1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/stage-1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,8 +63,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586016773348</updated>
-      <workItem from="1586016776175" duration="3246000" />
+      <workItem from="1586016776175" duration="4260000" />
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1586020041282</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586020041282</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,16 +80,26 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1053" y="119" key="CommitChangelistDialog2" timestamp="1586020040512">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1053" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586020040512" />
     <state x="1221" y="281" key="FileChooserDialogImpl" timestamp="1586017617251">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1221" y="281" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586017617251" />
-    <state x="407" y="281" key="new project wizard" timestamp="1586019056962">
+    <state x="1033" y="259" key="Vcs.Push.Dialog.v2" timestamp="1586020073510">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="407" y="281" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1586019056962" />
+    <state x="1033" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586020073510" />
+    <state x="613" y="298" key="new project wizard" timestamp="1586021078570">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="613" y="298" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1586021078570" />
     <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1586019625359">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
