@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91e962ae-b162-454e-ad96-fa1eb557645d" name="Default Changelist" comment="一入Java深似海第一期第二节">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage-1/stage-1-lesson-2/src/main/java/com/zhang/deep/in/java/CloneableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/stage-1/stage-1-lesson-2/src/main/java/com/zhang/deep/in/java/CloneableDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage-1/stage-1-lesson-2/src/main/java/com/zhang/deep/in/java/EnumClassDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/stage-1/stage-1-lesson-2/src/main/java/com/zhang/deep/in/java/EnumClassDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage-1/stage-1-lesson-2/src/main/java/com/zhang/deep/in/java/InnerClassDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/stage-1/stage-1-lesson-2/src/main/java/com/zhang/deep/in/java/InnerClassDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage-1/stage-1-lesson-2/src/main/java/com/zhang/deep/in/java/IntegerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/stage-1/stage-1-lesson-2/src/main/java/com/zhang/deep/in/java/IntegerDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage-1/stage-1-lesson-2/src/main/java/com/zhang/deep/in/java/SnapshotDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/stage-1/stage-1-lesson-2/src/main/java/com/zhang/deep/in/java/SnapshotDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage-1/stage-1-lesson-2/src/main/java/com/zhang/deep/in/java/UnmodifiableInterfaceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/stage-1/stage-1-lesson-2/src/main/java/com/zhang/deep/in/java/UnmodifiableInterfaceDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +74,7 @@
       <recent name="F:\idea\learn\deep-in-java\stage-1\lesson-2\src\main\java\com\zhang\deep\in\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EnumClassDemo">
+  <component name="RunManager" selected="Application.IntegerDemo">
     <configuration name="CloneableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zhang.deep.in.java.CloneableDemo" />
       <module name="stage-1-lesson-2" />
@@ -97,6 +90,19 @@
     </configuration>
     <configuration name="EnumClassDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zhang.deep.in.java.EnumClassDemo" />
+      <module name="stage-1-lesson-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhang.deep.in.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntegerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhang.deep.in.java.IntegerDemo" />
       <module name="stage-1-lesson-2" />
       <extension name="coverage">
         <pattern>
@@ -134,8 +140,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.CloneableDemo" />
+      <item itemvalue="Application.EnumClassDemo" />
+      <item itemvalue="Application.IntegerDemo" />
+      <item itemvalue="Application.StringDemo" />
+      <item itemvalue="Application.UnmodifiableInterfaceDemo" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IntegerDemo" />
         <item itemvalue="Application.EnumClassDemo" />
         <item itemvalue="Application.UnmodifiableInterfaceDemo" />
         <item itemvalue="Application.CloneableDemo" />
@@ -156,7 +170,8 @@
       <workItem from="1586016776175" duration="8289000" />
       <workItem from="1586134890119" duration="20685000" />
       <workItem from="1586166065712" duration="1659000" />
-      <workItem from="1586167739698" duration="9972000" />
+      <workItem from="1586167739698" duration="10274000" />
+      <workItem from="1586180815650" duration="721000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1586020041282</created>
@@ -231,6 +246,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="959" y="220" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1586168046866" />
+    <state x="600" y="227" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586181536682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="600" y="227" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586181536682" />
     <state x="1246" y="242" key="#com.intellij.ide.util.MemberChooser" timestamp="1586161803240">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -251,38 +270,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1221" y="281" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586144606567" />
-    <state width="912" height="359" key="GridCell.Tab.0.bottom" timestamp="1586180178622">
+    <state width="914" height="359" key="GridCell.Tab.0.bottom" timestamp="1586181524523">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="912" height="359" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586180178622" />
-    <state width="912" height="359" key="GridCell.Tab.0.center" timestamp="1586180178622">
+    <state width="914" height="359" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586181524523" />
+    <state width="914" height="359" key="GridCell.Tab.0.center" timestamp="1586181524523">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="912" height="359" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586180178622" />
-    <state width="912" height="359" key="GridCell.Tab.0.left" timestamp="1586180178622">
+    <state width="914" height="359" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586181524523" />
+    <state width="914" height="359" key="GridCell.Tab.0.left" timestamp="1586181524523">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="912" height="359" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586180178622" />
-    <state width="912" height="359" key="GridCell.Tab.0.right" timestamp="1586180178622">
+    <state width="914" height="359" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586181524523" />
+    <state width="914" height="359" key="GridCell.Tab.0.right" timestamp="1586181524523">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="912" height="359" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586180178622" />
-    <state width="914" height="323" key="GridCell.Tab.1.bottom" timestamp="1586166057990">
+    <state width="914" height="359" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586181524523" />
+    <state width="914" height="323" key="GridCell.Tab.1.bottom" timestamp="1586181469592">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="323" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586166057990" />
-    <state width="914" height="323" key="GridCell.Tab.1.center" timestamp="1586166057990">
+    <state width="914" height="323" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586181469592" />
+    <state width="914" height="323" key="GridCell.Tab.1.center" timestamp="1586181469592">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="323" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586166057990" />
-    <state width="914" height="323" key="GridCell.Tab.1.left" timestamp="1586166057990">
+    <state width="914" height="323" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586181469592" />
+    <state width="914" height="323" key="GridCell.Tab.1.left" timestamp="1586181469592">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="323" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586166057990" />
-    <state width="914" height="323" key="GridCell.Tab.1.right" timestamp="1586166057990">
+    <state width="914" height="323" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586181469592" />
+    <state width="914" height="323" key="GridCell.Tab.1.right" timestamp="1586181469592">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="323" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586166057990" />
+    <state width="914" height="323" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586181469592" />
     <state x="549" y="104" key="SettingsEditor" timestamp="1586177360245">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
