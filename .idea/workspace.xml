@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91e962ae-b162-454e-ad96-fa1eb557645d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/stage-1/lesson-2/src/main/java/com/zhang/deep/in/java/ClassName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-1/lesson-2/src/main/java/com/zhang/deep/in/java/CloneableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-1/lesson-2/src/main/java/com/zhang/deep/in/java/EnumClassDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-1/lesson-2/src/main/java/com/zhang/deep/in/java/InnerClassDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-1/lesson-2/src/main/java/com/zhang/deep/in/java/IntegerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-1/lesson-2/src/main/java/com/zhang/deep/in/java/InterfaceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-1/lesson-2/src/main/java/com/zhang/deep/in/java/SnapshotDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-1/lesson-2/src/main/java/com/zhang/deep/in/java/StringDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-1/lesson-2/src/main/java/com/zhang/deep/in/java/UnmodifiableInterfaceDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage-1/lesson-1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/stage-1/stage-1-lesson-1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage-1/lesson-1/src/main/java/com/zhang/deep/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/stage-1/stage-1-lesson-1/src/main/java/com/zhang/deep/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage-1/lesson-1/src/main/java/com/zhang/deep/in/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/stage-1/stage-1-lesson-1/src/main/java/com/zhang/deep/in/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage-1/lesson-1/src/main/java/com/zhang/deep/in/java/FunctionMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/stage-1/stage-1-lesson-1/src/main/java/com/zhang/deep/in/java/FunctionMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage-1/lesson-1/src/main/java/com/zhang/deep/in/java/GenericTypeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/stage-1/stage-1-lesson-1/src/main/java/com/zhang/deep/in/java/GenericTypeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage-1/lesson-1/src/main/java/com/zhang/deep/in/java/InnerClassDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/stage-1/stage-1-lesson-1/src/main/java/com/zhang/deep/in/java/InnerClassDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage-1/lesson-1/src/main/java/com/zhang/deep/in/java/LambdaDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/stage-1/stage-1-lesson-1/src/main/java/com/zhang/deep/in/java/LambdaDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage-1/lesson-1/src/main/java/com/zhang/deep/in/java/ModularDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/stage-1/stage-1-lesson-1/src/main/java/com/zhang/deep/in/java/ModularDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage-1/lesson-1/src/main/java/module-info.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-1/stage-1-lesson-1/stage-1-lesson-1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,6 +107,7 @@
       <updated>1586016773348</updated>
       <workItem from="1586016776175" duration="8289000" />
       <workItem from="1586134890119" duration="20685000" />
+      <workItem from="1586166065712" duration="265000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1586020041282</created>
@@ -148,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586022935467</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="一入Java深似海第一期第二节">
+      <created>1586166304345</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586166304345</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,7 +146,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="一入Java深似海第一期第二节" />
+    <option name="LAST_COMMIT_MESSAGE" value="一入Java深似海第一期第二节" />
   </component>
   <component name="WindowStateProjectService">
     <state x="959" y="220" key="#Project_Structure" timestamp="1586146291289">
@@ -172,10 +162,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1199" y="389" width="505" height="274" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1586145563897" />
-    <state x="1053" y="119" key="CommitChangelistDialog2" timestamp="1586022934541">
+    <state x="799" y="119" key="CommitChangelistDialog2" timestamp="1586166303338">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1053" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586022934541" />
+    <state x="799" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586166303338" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1586022931742">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
