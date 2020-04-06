@@ -1,13 +1,13 @@
 package com.zhang.deep.in.java;
 
 /**
- * @Description:
- * @Date: 2020/4/6 17:13
- * @Param 
- * @return 
+ * @ClassName IntegerDemo
+ * @Description 整条街最靓的仔，写点注释吧
+ * @Author 天涯
+ * @Date 2020/4/6 21:38
+ * @Version 1.0
  **/
 public class IntegerDemo {
-
     public static void main(String[] args) {
 
         //final 修饰的字段符合java内存模型

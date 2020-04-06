@@ -4,21 +4,28 @@ import java.lang.reflect.Modifier;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
+/**
+ * @ClassName EnumDemo
+ * @Description 整条街最靓的仔，写点注释吧
+ * @Author 天涯
+ * @Date 2020/4/6 19:50
+ * @Version 1.0
+ **/
 public class EnumClassDemo {
 
     public static void main(String[] args) {
 
         // Q1: THREE 到底是第几个定义的
 
-//        println(Counting.ONE);
-//        println(Counting.FIVE);
+        println(Counting.ONE);
+        println(Counting.FIVE);
 
         // Q3: 为什么枚举会输出成员名称
-//        println(CountingEnum.ONE);
-//        println(CountingEnum.FIVE);
+        println(CountingEnum.ONE);
+        println(CountingEnum.FIVE);
 //
-//        printEnumMeta(CountingEnum.ONE);
-//        printEnumMeta(CountingEnum.FIVE);
+        printEnumMeta(CountingEnum.ONE);
+        printEnumMeta(CountingEnum.FIVE);
 
         // 自定义实现 values()
         printCountingMembers();
@@ -109,10 +116,6 @@ enum CountingEnum implements Cloneable {
     }
 }
 
-//class ExtendedEnum extends CountingEnum {
-//
-//}
-
 class ExtendedCounting extends Counting {
 
     private ExtendedCounting(int value) {
@@ -189,7 +192,8 @@ abstract class Counting extends Data implements Cloneable {
         return Stream.of(Counting.class.getDeclaredFields())
                 .filter(field -> {
                     int modifiers = field.getModifiers();
-                    return Modifier.isPublic(modifiers) && Modifier.isStatic(modifiers) && Modifier.isFinal(modifiers);
+                    return Modifier.isPublic(modifiers)
+                            && Modifier.isStatic(modifiers) && Modifier.isFinal(modifiers);
                 }).map(field -> {
                     // Field -> Counting
                     try {

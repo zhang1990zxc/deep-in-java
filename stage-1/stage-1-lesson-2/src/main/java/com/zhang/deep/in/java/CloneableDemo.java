@@ -1,5 +1,12 @@
 package com.zhang.deep.in.java;
 
+/**
+ * @ClassName CloneableDemo
+ * @Description 整条街最靓的仔，写点注释吧
+ * @Author 天涯
+ * @Date 2020/4/6 18:10
+ * @Version 1.0
+ **/
 public class CloneableDemo {
 
     public static void main(String[] args) throws CloneNotSupportedException {

@@ -5,8 +5,14 @@ import java.util.Arrays;
 import java.util.Collection;
 import java.util.Collections;
 
+/**
+ * @ClassName UnmodifiableInterfaceDemo
+ * @Description 整条街最靓的仔，写点注释吧
+ * @Author 天涯
+ * @Date 2020/4/6 19:35
+ * @Version 1.0
+ **/
 public class UnmodifiableInterfaceDemo {
-
     public static void main(String[] args) {
 
         Collection<Integer> values = of(1, 2, 3, 4, 5);
