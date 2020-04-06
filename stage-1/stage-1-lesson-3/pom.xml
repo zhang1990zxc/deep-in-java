@@ -3,19 +3,13 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>deep-in-java</artifactId>
+        <artifactId>stage-1</artifactId>
         <groupId>com.zhang</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>stage-1</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>stage-1-lesson-1</module>
-        <module>stage-1-lesson-2</module>
-        <module>stage-1-lesson-3</module>
-    </modules>
+    <artifactId>stage-1-lesson-3</artifactId>
 
 
 </project>
