@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91e962ae-b162-454e-ad96-fa1eb557645d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/stage-1/lesson-1/src/main/java/com/zhang/deep/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-1/lesson-1/src/main/java/com/zhang/deep/in/Test.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/stage-1/lesson-1/src/main/java/com/zhang/deep/in/java/GenericTypeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-1/lesson-1/src/main/java/com/zhang/deep/in/java/InnerClassDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-1/lesson-1/src/main/java/com/zhang/deep/in/java/LambdaDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-1/lesson-1/src/main/java/com/zhang/deep/in/java/ModularDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-1/lesson-1/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stage-1/lesson-1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/stage-1/lesson-1/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stage-1/lesson-1/src/main/java/com/zhang/deep/in/java/FunctionMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/stage-1/lesson-1/src/main/java/com/zhang/deep/in/java/FunctionMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,12 +22,19 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="module-info" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -50,7 +65,17 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.zhang.deep" />
+      <recent name="com.zhang.deep.in" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -62,7 +87,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586016773348</updated>
-      <workItem from="1586016776175" duration="6035000" />
+      <workItem from="1586016776175" duration="8289000" />
+      <workItem from="1586134890119" duration="10723000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1586020041282</created>
@@ -78,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586021247917</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit">
+      <created>1586022935467</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586022935467</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,33 +123,62 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1053" y="119" key="CommitChangelistDialog2" timestamp="1586021247227">
+    <state x="959" y="220" key="#Project_Structure" timestamp="1586145019018">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1053" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586021247227" />
+    <state x="959" y="220" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1586145019018" />
+    <state x="1246" y="242" key="#com.intellij.ide.util.MemberChooser" timestamp="1586138183428">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1246" y="242" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586138183428" />
+    <state x="1199" y="389" width="505" height="274" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586145563897">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1199" y="389" width="505" height="274" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1586145563897" />
+    <state x="1053" y="119" key="CommitChangelistDialog2" timestamp="1586022934541">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1053" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586022934541" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1586022931742">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586022931742" />
-    <state x="1221" y="281" key="FileChooserDialogImpl" timestamp="1586017617251">
+    <state x="1221" y="281" key="FileChooserDialogImpl" timestamp="1586144606567">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1221" y="281" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586017617251" />
-    <state x="1162" y="268" width="567" height="524" key="StructurePopup" timestamp="1586022493928">
+    <state x="1221" y="281" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586144606567" />
+    <state x="484" y="118" key="SettingsEditor" timestamp="1586145107483">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1162" y="268" width="567" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1586022493928" />
-    <state x="1033" y="259" key="Vcs.Push.Dialog.v2" timestamp="1586021264234">
+    <state x="484" y="118" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586145107483" />
+    <state x="1162" y="268" width="567" height="524" key="StructurePopup" timestamp="1586138704016">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1033" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586021264234" />
+    <state x="1162" y="268" width="567" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1586138704016" />
+    <state x="1033" y="259" key="Vcs.Push.Dialog.v2" timestamp="1586022951657">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1033" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586022951657" />
+    <state x="1133" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1586135098324">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1133" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586135098324" />
     <state x="613" y="298" key="new project wizard" timestamp="1586021078570">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="613" y="298" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1586021078570" />
-    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1586022810034">
+    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1586141516321">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586022810034" />
+    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586141516321" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="deep-in-java" type="b2602c69:ProjectViewProjectNode" />
+        <item name="deep-in-java" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
   </component>
 </project>
