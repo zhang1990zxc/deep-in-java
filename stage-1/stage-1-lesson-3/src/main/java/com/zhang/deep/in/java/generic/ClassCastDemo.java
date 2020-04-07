@@ -1,6 +1,9 @@
 package com.zhang.deep.in.java.generic;
 
+import java.lang.reflect.Type;
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
 import java.util.List;
 
 /**
@@ -18,6 +21,18 @@ public class ClassCastDemo {
         list.add("A");
 
         List<Object> list2 = list;
+
+        Type type = int.class;
+
+        Class intType = int.class;
+
+        List<String> stringList = Collections.emptyList();
+
+//        stringList = list2;
+
+        List<String> stringList1 = Arrays.asList("1", "2", "3");
+
+        List<String> stringList2 = new ArrayList<>();
     }
 
     /**
