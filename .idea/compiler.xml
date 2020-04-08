@@ -14,7 +14,7 @@
         <module name="stage-1-lesson-1" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="8">
+    <bytecodeTargetLevel target="11">
       <module name="stage-1" target="8" />
     </bytecodeTargetLevel>
   </component>

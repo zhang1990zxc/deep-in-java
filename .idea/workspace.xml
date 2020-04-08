@@ -2,23 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91e962ae-b162-454e-ad96-fa1eb557645d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/stage-1/stage-1-lesson-4/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-1/stage-1-lesson-4/src/main/java/com/zhang/deep/in/java/fucntional/ActionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-1/stage-1-lesson-4/src/main/java/com/zhang/deep/in/java/fucntional/ConsumerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-1/stage-1-lesson-4/src/main/java/com/zhang/deep/in/java/fucntional/DemoAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-1/stage-1-lesson-4/src/main/java/com/zhang/deep/in/java/fucntional/DemoAnnotationDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-1/stage-1-lesson-4/src/main/java/com/zhang/deep/in/java/fucntional/FunctionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-1/stage-1-lesson-4/src/main/java/com/zhang/deep/in/java/fucntional/FunctionDesignDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-1/stage-1-lesson-4/src/main/java/com/zhang/deep/in/java/fucntional/FunctionalInterfaceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-1/stage-1-lesson-4/src/main/java/com/zhang/deep/in/java/fucntional/PredicateDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-1/stage-1-lesson-4/src/main/java/com/zhang/deep/in/java/fucntional/PredicateDesignDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-1/stage-1-lesson-4/src/main/java/com/zhang/deep/in/java/fucntional/SupplierDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-1/stage-1-lesson-4/src/main/java/com/zhang/deep/in/java/fucntional/SupplierDesignDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-1/stage-1-lesson-4/src/main/java/com/zhang/deep/in/java/stream/StreamCollectDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-1/stage-1-lesson-4/src/main/java/com/zhang/deep/in/java/stream/StreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-1/src/main/java/com/zhang/deep/in/java/modular/ModuleReflectionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-1/src/main/java/com/zhang/deep/in/java/modular/TransitiveRequireDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-1/src/main/java/com/zhang/deep/in/java/modular/UnnamedModuleDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-1/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-1/src/main/resources/META-INF/services/java.sql.Driver" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage-1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/stage-1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stage-2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/stage-2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stage-2/stage-2-lesson-1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-1/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="module-info" />
         <option value="AnnotationType" />
+        <option value="module-info" />
         <option value="Class" />
       </list>
     </option>
@@ -49,12 +42,14 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/javasoft/apache-maven-3.6.3" />
         <option name="workOffline" value="true" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
   </component>
@@ -77,10 +72,10 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -95,7 +90,7 @@
       <recent name="F:\idea\learn\deep-in-java\stage-1\lesson-2\src\main\java\com\zhang\deep\in\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DemoAnnotationDemo">
+  <component name="RunManager" selected="Application.ModuleReflectionDemo">
     <configuration name="DemoAnnotationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zhang.deep.in.java.fucntional.DemoAnnotationDemo" />
       <module name="stage-1-lesson-4" />
@@ -109,25 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionDesignDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zhang.deep.in.java.fucntional.FunctionDesignDemo" />
-      <module name="stage-1-lesson-4" />
+    <configuration name="ModuleReflectionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhang.deep.in.java.modular.ModuleReflectionDemo" />
+      <module name="stage-2-lesson-1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zhang.deep.in.java.fucntional.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PredicateDesignDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zhang.deep.in.java.fucntional.PredicateDesignDemo" />
-      <module name="stage-1-lesson-4" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zhang.deep.in.java.fucntional.*" />
+          <option name="PATTERN" value="com.zhang.deep.in.java.modular.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +130,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zhang.deep.in.java.stream.StreamDemo" />
-      <module name="stage-1-lesson-4" />
+    <configuration name="TransitiveRequireDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11.0.6" />
+      <option name="MAIN_CLASS_NAME" value="com.zhang.deep.in.java.modular.TransitiveRequireDemo" />
+      <module name="stage-2-lesson-1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zhang.deep.in.java.stream.*" />
+          <option name="PATTERN" value="com.zhang.deep.in.java.modular.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnnamedModuleDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhang.deep.in.java.modular.UnnamedModuleDemo" />
+      <module name="stage-2-lesson-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhang.deep.in.java.modular.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,19 +158,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FunctionDesignDemo" />
-      <item itemvalue="Application.PredicateDesignDemo" />
-      <item itemvalue="Application.StreamDemo" />
       <item itemvalue="Application.StreamCollectDemo" />
       <item itemvalue="Application.DemoAnnotationDemo" />
+      <item itemvalue="Application.TransitiveRequireDemo" />
+      <item itemvalue="Application.UnnamedModuleDemo" />
+      <item itemvalue="Application.ModuleReflectionDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ModuleReflectionDemo" />
+        <item itemvalue="Application.UnnamedModuleDemo" />
+        <item itemvalue="Application.TransitiveRequireDemo" />
         <item itemvalue="Application.DemoAnnotationDemo" />
         <item itemvalue="Application.StreamCollectDemo" />
-        <item itemvalue="Application.StreamDemo" />
-        <item itemvalue="Application.PredicateDesignDemo" />
-        <item itemvalue="Application.FunctionDesignDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -195,6 +191,9 @@
       <workItem from="1586180815650" duration="5386000" />
       <workItem from="1586196153660" duration="17000" />
       <workItem from="1586241503412" duration="30107000" />
+      <workItem from="1586284551081" duration="1159000" />
+      <workItem from="1586313776219" duration="4992000" />
+      <workItem from="1586325431063" duration="9241000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1586020041282</created>
@@ -266,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586259589383</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="一入Java深似海第一期第四节">
+      <created>1586284659868</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1586284659868</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,17 +296,18 @@
     <MESSAGE value="commit" />
     <MESSAGE value="一入Java深似海第一期第二节" />
     <MESSAGE value="一入Java深似海第一期第三节" />
-    <option name="LAST_COMMIT_MESSAGE" value="一入Java深似海第一期第三节" />
+    <MESSAGE value="一入Java深似海第一期第四节" />
+    <option name="LAST_COMMIT_MESSAGE" value="一入Java深似海第一期第四节" />
   </component>
   <component name="WindowStateProjectService">
     <state x="959" y="220" key="#Project_Structure" timestamp="1586168046866">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="959" y="220" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1586168046866" />
-    <state x="683" y="224" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586258808644">
+    <state x="643" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586328877664">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="683" y="224" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586258808644" />
+    <state x="643" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586328877664" />
     <state x="1246" y="242" key="#com.intellij.ide.util.MemberChooser" timestamp="1586274635742">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -313,34 +320,34 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1175" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586258680046" />
-    <state x="849" y="126" key="CommitChangelistDialog2" timestamp="1586284633236">
+    <state x="849" y="126" key="CommitChangelistDialog2" timestamp="1586284659011">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="849" y="126" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586284633236" />
+    <state x="849" y="126" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586284659011" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1586022931742">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586022931742" />
-    <state x="1221" y="281" key="FileChooserDialogImpl" timestamp="1586144606567">
+    <state x="1163" y="410" key="FileChooserDialogImpl" timestamp="1586315496287">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1221" y="281" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586144606567" />
-    <state width="910" height="467" key="GridCell.Tab.0.bottom" timestamp="1586283263500">
+    <state x="1163" y="410" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586315496287" />
+    <state width="914" height="395" key="GridCell.Tab.0.bottom" timestamp="1586335873162">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="910" height="467" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586283263500" />
-    <state width="910" height="467" key="GridCell.Tab.0.center" timestamp="1586283263500">
+    <state width="914" height="395" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586335873162" />
+    <state width="914" height="395" key="GridCell.Tab.0.center" timestamp="1586335873162">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="910" height="467" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586283263500" />
-    <state width="910" height="467" key="GridCell.Tab.0.left" timestamp="1586283263500">
+    <state width="914" height="395" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586335873162" />
+    <state width="914" height="395" key="GridCell.Tab.0.left" timestamp="1586335873162">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="910" height="467" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586283263500" />
-    <state width="910" height="467" key="GridCell.Tab.0.right" timestamp="1586283263500">
+    <state width="914" height="395" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586335873162" />
+    <state width="914" height="395" key="GridCell.Tab.0.right" timestamp="1586335873162">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="910" height="467" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586283263500" />
+    <state width="914" height="395" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586335873162" />
     <state width="799" height="323" key="GridCell.Tab.1.bottom" timestamp="1586196142231">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -357,30 +364,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="799" height="323" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586196142231" />
-    <state x="868" y="210" key="SettingsEditor" timestamp="1586284599244">
+    <state x="840" y="94" key="SettingsEditor" timestamp="1586331055661">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="868" y="210" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586284599244" />
+    <state x="840" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586331055661" />
     <state x="1162" y="268" width="567" height="524" key="StructurePopup" timestamp="1586280171825">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1162" y="268" width="567" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1586280171825" />
-    <state x="884" y="272" key="Vcs.Push.Dialog.v2" timestamp="1586259607284">
+    <state x="884" y="272" key="Vcs.Push.Dialog.v2" timestamp="1586284680381">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="884" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586259607284" />
-    <state x="1133" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1586284566007">
+    <state x="884" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586284680381" />
+    <state x="1133" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1586325449285">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1133" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586284566007" />
+    <state x="1133" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586325449285" />
     <state x="560" y="207" key="new project wizard" timestamp="1586260034564">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="560" y="207" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1586260034564" />
-    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1586280864487">
+    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1586335441464">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586280864487" />
+    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586335441464" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
