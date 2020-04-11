@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91e962ae-b162-454e-ad96-fa1eb557645d" name="Default Changelist" comment="" />
+    <list default="true" id="91e962ae-b162-454e-ad96-fa1eb557645d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-2/src/main/java/com/zhang/deep/in/java/AbstractCollectionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-2/src/main/java/com/zhang/deep/in/java/ArrayCopyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-2/src/main/java/com/zhang/deep/in/java/DeepCloneDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-2/src/main/java/com/zhang/deep/in/java/LegacyCollectionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-2/src/main/java/com/zhang/deep/in/java/ListAndSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-2/src/main/java/com/zhang/deep/in/java/MapAndSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-2/src/main/java/com/zhang/deep/in/java/MapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-2/src/main/java/com/zhang/deep/in/java/QueueAndDequeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +25,7 @@
       <list>
         <option value="AnnotationType" />
         <option value="module-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -61,7 +72,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
@@ -79,13 +90,14 @@
       <recent name="F:\idea\learn\deep-in-java\stage-1\lesson-2\src\main\java\com\zhang\deep\in\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ModuleReflectionDemo">
-    <configuration name="DemoAnnotationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zhang.deep.in.java.fucntional.DemoAnnotationDemo" />
-      <module name="stage-1-lesson-4" />
+  <component name="RunManager" selected="Application.DeepCloneDemo">
+    <configuration name="AbstractCollectionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhang.deep.in.java.AbstractCollectionDemo" />
+      <module name="stage-2-lesson-2" />
+      <option name="VM_PARAMETERS" value="-ea" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zhang.deep.in.java.fucntional.*" />
+          <option name="PATTERN" value="com.zhang.deep.in.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ModuleReflectionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zhang.deep.in.java.modular.ModuleReflectionDemo" />
-      <module name="stage-2-lesson-1" />
+    <configuration name="DeepCloneDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhang.deep.in.java.DeepCloneDemo" />
+      <module name="stage-2-lesson-2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zhang.deep.in.java.modular.*" />
+          <option name="PATTERN" value="com.zhang.deep.in.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamCollectDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zhang.deep.in.java.stream.StreamCollectDemo" />
-      <module name="stage-1-lesson-4" />
+    <configuration name="LegacyCollectionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhang.deep.in.java.LegacyCollectionDemo" />
+      <module name="stage-2-lesson-2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zhang.deep.in.java.stream.*" />
+          <option name="PATTERN" value="com.zhang.deep.in.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,13 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TransitiveRequireDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="11.0.6" />
-      <option name="MAIN_CLASS_NAME" value="com.zhang.deep.in.java.modular.TransitiveRequireDemo" />
-      <module name="stage-2-lesson-1" />
+    <configuration name="ListAndSetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhang.deep.in.java.ListAndSetDemo" />
+      <module name="stage-2-lesson-2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zhang.deep.in.java.modular.*" />
+          <option name="PATTERN" value="com.zhang.deep.in.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnnamedModuleDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zhang.deep.in.java.modular.UnnamedModuleDemo" />
-      <module name="stage-2-lesson-1" />
+    <configuration name="MapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhang.deep.in.java.MapDemo" />
+      <module name="stage-2-lesson-2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zhang.deep.in.java.modular.*" />
+          <option name="PATTERN" value="com.zhang.deep.in.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,19 +158,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StreamCollectDemo" />
-      <item itemvalue="Application.DemoAnnotationDemo" />
-      <item itemvalue="Application.TransitiveRequireDemo" />
-      <item itemvalue="Application.UnnamedModuleDemo" />
-      <item itemvalue="Application.ModuleReflectionDemo" />
+      <item itemvalue="Application.ListAndSetDemo" />
+      <item itemvalue="Application.LegacyCollectionDemo" />
+      <item itemvalue="Application.AbstractCollectionDemo" />
+      <item itemvalue="Application.MapDemo" />
+      <item itemvalue="Application.DeepCloneDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ModuleReflectionDemo" />
-        <item itemvalue="Application.UnnamedModuleDemo" />
-        <item itemvalue="Application.TransitiveRequireDemo" />
-        <item itemvalue="Application.DemoAnnotationDemo" />
-        <item itemvalue="Application.StreamCollectDemo" />
+        <item itemvalue="Application.DeepCloneDemo" />
+        <item itemvalue="Application.MapDemo" />
+        <item itemvalue="Application.AbstractCollectionDemo" />
+        <item itemvalue="Application.LegacyCollectionDemo" />
+        <item itemvalue="Application.ListAndSetDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +193,9 @@
       <workItem from="1586241503412" duration="30107000" />
       <workItem from="1586284551081" duration="1159000" />
       <workItem from="1586313776219" duration="4992000" />
-      <workItem from="1586325431063" duration="9290000" />
+      <workItem from="1586325431063" duration="17251000" />
+      <workItem from="1586523057084" duration="3093000" />
+      <workItem from="1586581257719" duration="15196000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1586020041282</created>
@@ -268,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586336534271</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="一入Java深似海第二期第一节">
+      <created>1586336586496</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1586336586496</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -301,10 +321,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="959" y="220" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1586168046866" />
-    <state x="643" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586328877664">
+    <state x="702" y="289" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586611658718">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="643" y="191" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586328877664" />
+    <state x="702" y="289" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586611658718" />
     <state x="1246" y="242" key="#com.intellij.ide.util.MemberChooser" timestamp="1586274635742">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -317,10 +337,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1175" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586258680046" />
-    <state x="849" y="126" key="CommitChangelistDialog2" timestamp="1586336533279">
+    <state x="849" y="126" key="CommitChangelistDialog2" timestamp="1586336585796">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="849" y="126" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586336533279" />
+    <state x="849" y="126" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586336585796" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1586022931742">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -329,62 +349,62 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1163" y="410" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586315496287" />
-    <state width="914" height="395" key="GridCell.Tab.0.bottom" timestamp="1586335873162">
+    <state width="914" height="317" key="GridCell.Tab.0.bottom" timestamp="1586616424545">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="395" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586335873162" />
-    <state width="914" height="395" key="GridCell.Tab.0.center" timestamp="1586335873162">
+    <state width="914" height="317" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586616424545" />
+    <state width="914" height="317" key="GridCell.Tab.0.center" timestamp="1586616424545">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="395" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586335873162" />
-    <state width="914" height="395" key="GridCell.Tab.0.left" timestamp="1586335873162">
+    <state width="914" height="317" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586616424545" />
+    <state width="914" height="317" key="GridCell.Tab.0.left" timestamp="1586616424545">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="395" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586335873162" />
-    <state width="914" height="395" key="GridCell.Tab.0.right" timestamp="1586335873162">
+    <state width="914" height="317" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586616424545" />
+    <state width="914" height="317" key="GridCell.Tab.0.right" timestamp="1586616424545">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="395" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586335873162" />
-    <state width="799" height="323" key="GridCell.Tab.1.bottom" timestamp="1586196142231">
+    <state width="914" height="317" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586616424545" />
+    <state width="914" height="351" key="GridCell.Tab.1.bottom" timestamp="1586612456243">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="799" height="323" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586196142231" />
-    <state width="799" height="323" key="GridCell.Tab.1.center" timestamp="1586196142231">
+    <state width="914" height="351" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586612456243" />
+    <state width="914" height="351" key="GridCell.Tab.1.center" timestamp="1586612456243">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="799" height="323" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586196142231" />
-    <state width="799" height="323" key="GridCell.Tab.1.left" timestamp="1586196142230">
+    <state width="914" height="351" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586612456243" />
+    <state width="914" height="351" key="GridCell.Tab.1.left" timestamp="1586612456243">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="799" height="323" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586196142230" />
-    <state width="799" height="323" key="GridCell.Tab.1.right" timestamp="1586196142231">
+    <state width="914" height="351" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586612456243" />
+    <state width="914" height="351" key="GridCell.Tab.1.right" timestamp="1586612456243">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="799" height="323" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586196142231" />
-    <state x="840" y="94" key="SettingsEditor" timestamp="1586331055661">
+    <state width="914" height="351" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586612456243" />
+    <state x="840" y="94" key="SettingsEditor" timestamp="1586581321558">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="840" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586331055661" />
-    <state x="1162" y="268" width="567" height="524" key="StructurePopup" timestamp="1586280171825">
+    <state x="840" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586581321558" />
+    <state x="1162" y="268" width="567" height="524" key="StructurePopup" timestamp="1586612425874">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1162" y="268" width="567" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1586280171825" />
-    <state x="884" y="272" key="Vcs.Push.Dialog.v2" timestamp="1586284680381">
+    <state x="1162" y="268" width="567" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1586612425874" />
+    <state x="884" y="272" key="Vcs.Push.Dialog.v2" timestamp="1586336597339">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="884" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586284680381" />
-    <state x="1133" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1586325449285">
+    <state x="884" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586336597339" />
+    <state x="1133" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1586581252565">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1133" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586325449285" />
+    <state x="1133" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586581252565" />
     <state x="560" y="207" key="new project wizard" timestamp="1586260034564">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="560" y="207" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1586260034564" />
-    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1586335441464">
+    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1586615934666">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586335441464" />
+    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586615934666" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
