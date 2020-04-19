@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="stage-2-lesson-1" />
+        <module name="stage-2-lesson-3" />
         <module name="stage-1-lesson-3" />
+        <module name="stage-1-lesson-2" />
+        <module name="stage-2-lesson-4" />
         <module name="stage-1-lesson-4" />
         <module name="stage-2-lesson-2" />
-        <module name="stage-1-lesson-2" />
+        <module name="stage-2-lesson-1" />
         <module name="stage-1-lesson-1" />
       </profile>
     </annotationProcessing>

@@ -2,15 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91e962ae-b162-454e-ad96-fa1eb557645d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-2/src/main/java/com/zhang/deep/in/java/AbstractCollectionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-2/src/main/java/com/zhang/deep/in/java/ArrayCopyDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-2/src/main/java/com/zhang/deep/in/java/DeepCloneDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-2/src/main/java/com/zhang/deep/in/java/LegacyCollectionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-2/src/main/java/com/zhang/deep/in/java/ListAndSetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-2/src/main/java/com/zhang/deep/in/java/MapAndSetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-2/src/main/java/com/zhang/deep/in/java/MapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-2/src/main/java/com/zhang/deep/in/java/QueueAndDequeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-3/src/main/java/com/zhang/deep/in/java/collection/CheckedTypeCollectionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-3/src/main/java/com/zhang/deep/in/java/collection/CollectionRemoveDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-3/src/main/java/com/zhang/deep/in/java/collection/EmptyCollectionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-3/src/main/java/com/zhang/deep/in/java/collection/FailFastVsFailSafeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-3/src/main/java/com/zhang/deep/in/java/collection/IdentityHashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-3/src/main/java/com/zhang/deep/in/java/collection/ImmutableArrayDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-3/src/main/java/com/zhang/deep/in/java/collection/IteratorModificationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-3/src/main/java/com/zhang/deep/in/java/collection/PriorityQueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-3/src/main/java/com/zhang/deep/in/java/collection/WeakReferenceMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-4/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-4/src/main/java/com/zhang/deep/in/java/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-4/src/main/java/com/zhang/deep/in/java/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-4/src/main/java/com/zhang/deep/in/java/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-4/src/main/java/com/zhang/deep/in/java/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-4/src/main/java/com/zhang/deep/in/java/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stage-2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/stage-2/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,14 +78,14 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/stage-1/stage-1-lesson-3/src/main/java/com/zhang/deep/in/java/method" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../gitee/segmentfault-lessons/spring-boot/lesson-1/spring-boot-lesson-1" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -90,11 +100,10 @@
       <recent name="F:\idea\learn\deep-in-java\stage-1\lesson-2\src\main\java\com\zhang\deep\in\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DeepCloneDemo">
-    <configuration name="AbstractCollectionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zhang.deep.in.java.AbstractCollectionDemo" />
-      <module name="stage-2-lesson-2" />
-      <option name="VM_PARAMETERS" value="-ea" />
+  <component name="RunManager" selected="Application.QuickSort">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhang.deep.in.java.BubbleSort" />
+      <module name="stage-2-lesson-4" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.zhang.deep.in.java.*" />
@@ -105,9 +114,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeepCloneDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zhang.deep.in.java.DeepCloneDemo" />
-      <module name="stage-2-lesson-2" />
+    <configuration name="FailFastVsFailSafeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhang.deep.in.java.collection.FailFastVsFailSafeDemo" />
+      <module name="stage-2-lesson-3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhang.deep.in.java.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhang.deep.in.java.InsertionSort" />
+      <module name="stage-2-lesson-4" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.zhang.deep.in.java.*" />
@@ -118,9 +140,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LegacyCollectionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zhang.deep.in.java.LegacyCollectionDemo" />
-      <module name="stage-2-lesson-2" />
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhang.deep.in.java.MergeSort" />
+      <module name="stage-2-lesson-4" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.zhang.deep.in.java.*" />
@@ -131,22 +153,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListAndSetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zhang.deep.in.java.ListAndSetDemo" />
-      <module name="stage-2-lesson-2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zhang.deep.in.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zhang.deep.in.java.MapDemo" />
-      <module name="stage-2-lesson-2" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhang.deep.in.java.QuickSort" />
+      <module name="stage-2-lesson-4" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.zhang.deep.in.java.*" />
@@ -158,19 +167,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ListAndSetDemo" />
-      <item itemvalue="Application.LegacyCollectionDemo" />
-      <item itemvalue="Application.AbstractCollectionDemo" />
-      <item itemvalue="Application.MapDemo" />
-      <item itemvalue="Application.DeepCloneDemo" />
+      <item itemvalue="Application.FailFastVsFailSafeDemo" />
+      <item itemvalue="Application.BubbleSort" />
+      <item itemvalue="Application.InsertionSort" />
+      <item itemvalue="Application.QuickSort" />
+      <item itemvalue="Application.MergeSort" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DeepCloneDemo" />
-        <item itemvalue="Application.MapDemo" />
-        <item itemvalue="Application.AbstractCollectionDemo" />
-        <item itemvalue="Application.LegacyCollectionDemo" />
-        <item itemvalue="Application.ListAndSetDemo" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.InsertionSort" />
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.FailFastVsFailSafeDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +204,9 @@
       <workItem from="1586313776219" duration="4992000" />
       <workItem from="1586325431063" duration="17251000" />
       <workItem from="1586523057084" duration="3093000" />
-      <workItem from="1586581257719" duration="15196000" />
+      <workItem from="1586581257719" duration="16667000" />
+      <workItem from="1586860087570" duration="21830000" />
+      <workItem from="1587273520472" duration="17867000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1586020041282</created>
@@ -288,7 +299,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586336586496</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="一入Java深似海第二期第二节">
+      <created>1586623775369</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1586623775369</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -314,7 +332,8 @@
     <MESSAGE value="一入Java深似海第一期第三节" />
     <MESSAGE value="一入Java深似海第一期第四节" />
     <MESSAGE value="一入Java深似海第二期第一节" />
-    <option name="LAST_COMMIT_MESSAGE" value="一入Java深似海第二期第一节" />
+    <MESSAGE value="一入Java深似海第二期第二节" />
+    <option name="LAST_COMMIT_MESSAGE" value="一入Java深似海第二期第二节" />
   </component>
   <component name="WindowStateProjectService">
     <state x="959" y="220" key="#Project_Structure" timestamp="1586168046866">
@@ -325,10 +344,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="702" y="289" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586611658718" />
-    <state x="1246" y="242" key="#com.intellij.ide.util.MemberChooser" timestamp="1586274635742">
+    <state x="1246" y="242" key="#com.intellij.ide.util.MemberChooser" timestamp="1587291333086">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1246" y="242" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586274635742" />
+    <state x="1246" y="242" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587291333086" />
     <state x="1199" y="389" width="505" height="274" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586145563897">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -337,74 +356,85 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1175" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586258680046" />
-    <state x="849" y="126" key="CommitChangelistDialog2" timestamp="1586336585796">
+    <state x="886" y="105" key="CommitChangelistDialog2" timestamp="1586623774458">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="849" y="126" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586336585796" />
+    <state x="886" y="105" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586623774458" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1586022931742">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586022931742" />
-    <state x="1163" y="410" key="FileChooserDialogImpl" timestamp="1586315496287">
+    <state x="623" y="242" key="FileChooserDialogImpl" timestamp="1587294697308">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1163" y="410" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586315496287" />
-    <state width="914" height="317" key="GridCell.Tab.0.bottom" timestamp="1586616424545">
+    <state x="623" y="242" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587294697308" />
+    <state width="912" height="433" key="GridCell.Tab.0.bottom" timestamp="1587304544235">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="317" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586616424545" />
-    <state width="914" height="317" key="GridCell.Tab.0.center" timestamp="1586616424545">
+    <state width="912" height="433" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587304544235" />
+    <state width="912" height="433" key="GridCell.Tab.0.center" timestamp="1587304544235">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="317" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586616424545" />
-    <state width="914" height="317" key="GridCell.Tab.0.left" timestamp="1586616424545">
+    <state width="912" height="433" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587304544235" />
+    <state width="912" height="433" key="GridCell.Tab.0.left" timestamp="1587304544235">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="317" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586616424545" />
-    <state width="914" height="317" key="GridCell.Tab.0.right" timestamp="1586616424545">
+    <state width="912" height="433" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587304544235" />
+    <state width="912" height="433" key="GridCell.Tab.0.right" timestamp="1587304544235">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="317" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586616424545" />
-    <state width="914" height="351" key="GridCell.Tab.1.bottom" timestamp="1586612456243">
+    <state width="912" height="433" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587304544235" />
+    <state width="912" height="433" key="GridCell.Tab.1.bottom" timestamp="1587304544235">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="351" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586612456243" />
-    <state width="914" height="351" key="GridCell.Tab.1.center" timestamp="1586612456243">
+    <state width="912" height="433" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587304544235" />
+    <state width="912" height="433" key="GridCell.Tab.1.center" timestamp="1587304544235">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="351" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586612456243" />
-    <state width="914" height="351" key="GridCell.Tab.1.left" timestamp="1586612456243">
+    <state width="912" height="433" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587304544235" />
+    <state width="912" height="433" key="GridCell.Tab.1.left" timestamp="1587304544235">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="351" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586612456243" />
-    <state width="914" height="351" key="GridCell.Tab.1.right" timestamp="1586612456243">
+    <state width="912" height="433" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587304544235" />
+    <state width="912" height="433" key="GridCell.Tab.1.right" timestamp="1587304544235">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="351" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586612456243" />
-    <state x="840" y="94" key="SettingsEditor" timestamp="1586581321558">
+    <state width="912" height="433" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587304544235" />
+    <state x="747" y="137" key="SettingsEditor" timestamp="1587279917294">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="840" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586581321558" />
-    <state x="1162" y="268" width="567" height="524" key="StructurePopup" timestamp="1586612425874">
+    <state x="747" y="137" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587279917294" />
+    <state x="1162" y="268" width="567" height="524" key="StructurePopup" timestamp="1586882499783">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1162" y="268" width="567" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1586612425874" />
-    <state x="884" y="272" key="Vcs.Push.Dialog.v2" timestamp="1586336597339">
+    <state x="1162" y="268" width="567" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1586882499783" />
+    <state x="884" y="272" key="Vcs.Push.Dialog.v2" timestamp="1586624258789">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="884" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586336597339" />
-    <state x="1133" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1586581252565">
+    <state x="884" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586624258789" />
+    <state x="1133" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1586860097653">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1133" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586581252565" />
-    <state x="560" y="207" key="new project wizard" timestamp="1586260034564">
+    <state x="1133" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586860097653" />
+    <state x="455" y="216" key="new project wizard" timestamp="1586624335029">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="207" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1586260034564" />
-    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1586615934666">
+    <state x="455" y="216" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1586624335029" />
+    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1586886357615">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586615934666" />
+    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586886357615" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/stage-2/stage-2-lesson-3/src/main/java/com/zhang/deep/in/java/collection/IdentityHashMapDemo.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
