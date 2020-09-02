@@ -1,34 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="91e962ae-b162-454e-ad96-fa1eb557645d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-3/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-3/src/main/java/com/zhang/deep/in/java/collection/CheckedTypeCollectionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-3/src/main/java/com/zhang/deep/in/java/collection/CollectionRemoveDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-3/src/main/java/com/zhang/deep/in/java/collection/EmptyCollectionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-3/src/main/java/com/zhang/deep/in/java/collection/FailFastVsFailSafeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-3/src/main/java/com/zhang/deep/in/java/collection/IdentityHashMapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-3/src/main/java/com/zhang/deep/in/java/collection/ImmutableArrayDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-3/src/main/java/com/zhang/deep/in/java/collection/IteratorModificationDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-3/src/main/java/com/zhang/deep/in/java/collection/PriorityQueueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-3/src/main/java/com/zhang/deep/in/java/collection/WeakReferenceMapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-4/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-4/src/main/java/com/zhang/deep/in/java/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-4/src/main/java/com/zhang/deep/in/java/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-4/src/main/java/com/zhang/deep/in/java/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-4/src/main/java/com/zhang/deep/in/java/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-2/stage-2-lesson-4/src/main/java/com/zhang/deep/in/java/Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stage-2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/stage-2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deep-in-java.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="deep-in-java" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,28 +36,28 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="F:/javasoft/apache-maven-3.6.3" />
+        <option name="mavenHome" value="F:\javasoft\apache-maven-3.6.3" />
         <option name="workOffline" value="true" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
       <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
         <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectId" id="1a5DtDP41g9BTsPSz1AQZsTPUQm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -166,6 +150,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.FailFastVsFailSafeDemo" />
       <item itemvalue="Application.BubbleSort" />
@@ -183,6 +178,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -206,7 +202,9 @@
       <workItem from="1586523057084" duration="3093000" />
       <workItem from="1586581257719" duration="16667000" />
       <workItem from="1586860087570" duration="21830000" />
-      <workItem from="1587273520472" duration="17867000" />
+      <workItem from="1587273520472" duration="18093000" />
+      <workItem from="1591707129730" duration="123000" />
+      <workItem from="1599067994583" duration="298000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1586020041282</created>
@@ -306,24 +304,30 @@
       <option name="project" value="LOCAL" />
       <updated>1586623775369</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="一入Java深似海第二期完结">
+      <created>1587304594491</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1587304594491</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -333,97 +337,18 @@
     <MESSAGE value="一入Java深似海第一期第四节" />
     <MESSAGE value="一入Java深似海第二期第一节" />
     <MESSAGE value="一入Java深似海第二期第二节" />
-    <option name="LAST_COMMIT_MESSAGE" value="一入Java深似海第二期第二节" />
+    <MESSAGE value="一入Java深似海第二期完结" />
+    <option name="LAST_COMMIT_MESSAGE" value="一入Java深似海第二期完结" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="959" y="220" key="#Project_Structure" timestamp="1586168046866">
+    <state x="761" y="239" key="RollbackChangesDialog" timestamp="1599068242051">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="959" y="220" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1586168046866" />
-    <state x="702" y="289" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586611658718">
+    <state x="761" y="239" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599068242051" />
+    <state x="764" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599068160141">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="702" y="289" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586611658718" />
-    <state x="1246" y="242" key="#com.intellij.ide.util.MemberChooser" timestamp="1587291333086">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1246" y="242" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587291333086" />
-    <state x="1199" y="389" width="505" height="274" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586145563897">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1199" y="389" width="505" height="274" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1586145563897" />
-    <state x="1175" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586258680046">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1175" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586258680046" />
-    <state x="886" y="105" key="CommitChangelistDialog2" timestamp="1586623774458">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="886" y="105" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586623774458" />
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1586022931742">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586022931742" />
-    <state x="623" y="242" key="FileChooserDialogImpl" timestamp="1587294697308">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="623" y="242" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587294697308" />
-    <state width="912" height="433" key="GridCell.Tab.0.bottom" timestamp="1587304544235">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="912" height="433" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587304544235" />
-    <state width="912" height="433" key="GridCell.Tab.0.center" timestamp="1587304544235">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="912" height="433" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587304544235" />
-    <state width="912" height="433" key="GridCell.Tab.0.left" timestamp="1587304544235">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="912" height="433" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587304544235" />
-    <state width="912" height="433" key="GridCell.Tab.0.right" timestamp="1587304544235">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="912" height="433" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587304544235" />
-    <state width="912" height="433" key="GridCell.Tab.1.bottom" timestamp="1587304544235">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="912" height="433" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587304544235" />
-    <state width="912" height="433" key="GridCell.Tab.1.center" timestamp="1587304544235">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="912" height="433" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587304544235" />
-    <state width="912" height="433" key="GridCell.Tab.1.left" timestamp="1587304544235">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="912" height="433" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587304544235" />
-    <state width="912" height="433" key="GridCell.Tab.1.right" timestamp="1587304544235">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="912" height="433" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587304544235" />
-    <state x="747" y="137" key="SettingsEditor" timestamp="1587279917294">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="747" y="137" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587279917294" />
-    <state x="1162" y="268" width="567" height="524" key="StructurePopup" timestamp="1586882499783">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1162" y="268" width="567" height="524" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1586882499783" />
-    <state x="884" y="272" key="Vcs.Push.Dialog.v2" timestamp="1586624258789">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="884" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586624258789" />
-    <state x="1133" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1586860097653">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1133" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586860097653" />
-    <state x="455" y="216" key="new project wizard" timestamp="1586624335029">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="455" y="216" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1586624335029" />
-    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1586886357615">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1104" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586886357615" />
+    <state x="764" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1599068160141" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
