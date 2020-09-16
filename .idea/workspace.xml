@@ -5,23 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91e962ae-b162-454e-ad96-fa1eb557645d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/stage-3/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-3/stage-3-lesson-1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-3/stage-3-lesson-1/src/main/java/com/zhang/deep/in/java/modular/ChildProcessDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-3/stage-3-lesson-1/src/main/java/com/zhang/deep/in/java/modular/DumpThreadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-3/stage-3-lesson-1/src/main/java/com/zhang/deep/in/java/modular/HowToStopThreadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-3/stage-3-lesson-1/src/main/java/com/zhang/deep/in/java/modular/ProcessExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-3/stage-3-lesson-1/src/main/java/com/zhang/deep/in/java/modular/ProcessIdDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-3/stage-3-lesson-1/src/main/java/com/zhang/deep/in/java/modular/ProcessInfoDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-3/stage-3-lesson-1/src/main/java/com/zhang/deep/in/java/modular/ThreadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-3/stage-3-lesson-1/src/main/java/com/zhang/deep/in/java/modular/ThreadInterruptDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-3/stage-3-lesson-1/src/main/java/com/zhang/deep/in/java/modular/ThreadSuspendAndResumeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-3/stage-3-lesson-1/src/main/java/com/zhang/deep/in/java/modular/ThreadWaitAndNotifyDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stage-3/stage-3-lesson-2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-3/stage-3-lesson-2/src/main/java/com/zhang/deep/in/java/modular/DeadLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-3/stage-3-lesson-2/src/main/java/com/zhang/deep/in/java/modular/ProducerConsumerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-3/stage-3-lesson-2/src/main/java/com/zhang/deep/in/java/modular/SynchronizedDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-3/stage-3-lesson-2/src/main/java/com/zhang/deep/in/java/modular/SynchronizedMethodAndBlockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-3/stage-3-lesson-2/src/main/java/com/zhang/deep/in/java/modular/SynchronizedObjectAndClassDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-3/stage-3-lesson-2/src/main/java/com/zhang/deep/in/java/modular/SynchronizedPerformanceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage-3/stage-3-lesson-2/src/main/java/com/zhang/deep/in/java/modular/ThreadStarvationDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stage-3/stage-3-lesson-1/src/main/java/com/zhang/deep/in/java/modular/ThreadWaitAndNotifyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/stage-3/stage-3-lesson-1/src/main/java/com/zhang/deep/in/java/modular/ThreadWaitAndNotifyDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,10 +91,10 @@
       <recent name="F:\idea\learn\deep-in-java\stage-1\lesson-2\src\main\java\com\zhang\deep\in\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProcessExecutor">
-    <configuration name="ChildProcessDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zhang.deep.in.java.modular.ChildProcessDemo" />
-      <module name="stage-3-lesson-1" />
+  <component name="RunManager" selected="Application.ProducerConsumerDemo">
+    <configuration name="DeadLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhang.deep.in.java.modular.DeadLockDemo" />
+      <module name="stage-3-lesson-2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.zhang.deep.in.java.modular.*" />
@@ -112,9 +105,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProcessExecutor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zhang.deep.in.java.modular.ProcessExecutor" />
-      <module name="stage-3-lesson-1" />
+    <configuration name="ProducerConsumerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhang.deep.in.java.modular.ProducerConsumerDemo" />
+      <module name="stage-3-lesson-2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.zhang.deep.in.java.modular.*" />
@@ -125,9 +118,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProcessIdDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zhang.deep.in.java.modular.ProcessIdDemo" />
-      <module name="stage-3-lesson-1" />
+    <configuration name="SynchronizedPerformanceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhang.deep.in.java.modular.SynchronizedPerformanceDemo" />
+      <module name="stage-3-lesson-2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.zhang.deep.in.java.modular.*" />
@@ -138,9 +131,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProcessInfoDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zhang.deep.in.java.modular.ProcessInfoDemo" />
-      <module name="stage-3-lesson-1" />
+    <configuration name="ThreadStarvationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhang.deep.in.java.modular.ThreadStarvationDemo" />
+      <module name="stage-3-lesson-2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.zhang.deep.in.java.modular.*" />
@@ -178,19 +171,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.SynchronizedPerformanceDemo" />
       <item itemvalue="Application.ThreadWaitAndNotifyDemo" />
-      <item itemvalue="Application.ProcessIdDemo" />
-      <item itemvalue="Application.ProcessInfoDemo" />
-      <item itemvalue="Application.ChildProcessDemo" />
-      <item itemvalue="Application.ProcessExecutor" />
+      <item itemvalue="Application.DeadLockDemo" />
+      <item itemvalue="Application.ThreadStarvationDemo" />
+      <item itemvalue="Application.ProducerConsumerDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ProcessExecutor" />
-        <item itemvalue="Application.ChildProcessDemo" />
-        <item itemvalue="Application.ProcessInfoDemo" />
-        <item itemvalue="Application.ProcessIdDemo" />
+        <item itemvalue="Application.ProducerConsumerDemo" />
+        <item itemvalue="Application.ThreadStarvationDemo" />
+        <item itemvalue="Application.DeadLockDemo" />
         <item itemvalue="Application.ThreadWaitAndNotifyDemo" />
+        <item itemvalue="Application.SynchronizedPerformanceDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -226,6 +219,8 @@
       <workItem from="1599837397396" duration="1620000" />
       <workItem from="1600013733639" duration="2250000" />
       <workItem from="1600094037185" duration="6103000" />
+      <workItem from="1600174453498" duration="5343000" />
+      <workItem from="1600258679094" duration="3371000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1586020041282</created>
@@ -369,42 +364,46 @@
     <option name="LAST_COMMIT_MESSAGE" value="一入Java深似海第二期完结" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1245" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1600261399912">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1245" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600261399912" />
     <state x="558" y="72" key="CommitChangelistDialog2" timestamp="1599068355562">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="558" y="72" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1599068355562" />
-    <state width="912" height="325" key="GridCell.Tab.0.bottom" timestamp="1600101552739">
+    <state width="914" height="382" key="GridCell.Tab.0.bottom" timestamp="1600263517721">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="912" height="325" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600101552739" />
-    <state width="912" height="325" key="GridCell.Tab.0.center" timestamp="1600101552739">
+    <state width="914" height="382" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600263517721" />
+    <state width="914" height="382" key="GridCell.Tab.0.center" timestamp="1600263517721">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="912" height="325" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600101552739" />
-    <state width="912" height="325" key="GridCell.Tab.0.left" timestamp="1600101552739">
+    <state width="914" height="382" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600263517721" />
+    <state width="914" height="382" key="GridCell.Tab.0.left" timestamp="1600263517721">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="912" height="325" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600101552739" />
-    <state width="912" height="325" key="GridCell.Tab.0.right" timestamp="1600101552739">
+    <state width="914" height="382" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600263517721" />
+    <state width="914" height="382" key="GridCell.Tab.0.right" timestamp="1600263517721">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="912" height="325" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600101552739" />
-    <state width="912" height="325" key="GridCell.Tab.1.bottom" timestamp="1600101552739">
+    <state width="914" height="382" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600263517721" />
+    <state width="914" height="382" key="GridCell.Tab.1.bottom" timestamp="1600263517721">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="912" height="325" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600101552739" />
-    <state width="912" height="325" key="GridCell.Tab.1.center" timestamp="1600101552739">
+    <state width="914" height="382" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600263517721" />
+    <state width="914" height="382" key="GridCell.Tab.1.center" timestamp="1600263517721">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="912" height="325" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600101552739" />
-    <state width="912" height="325" key="GridCell.Tab.1.left" timestamp="1600101552739">
+    <state width="914" height="382" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600263517721" />
+    <state width="914" height="382" key="GridCell.Tab.1.left" timestamp="1600263517721">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="912" height="325" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600101552739" />
-    <state width="912" height="325" key="GridCell.Tab.1.right" timestamp="1600101552739">
+    <state width="914" height="382" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600263517721" />
+    <state width="914" height="382" key="GridCell.Tab.1.right" timestamp="1600263517721">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="912" height="325" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600101552739" />
+    <state width="914" height="382" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600263517721" />
     <state x="761" y="239" key="RollbackChangesDialog" timestamp="1599068242051">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -425,19 +424,23 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="764" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1599068160141" />
-    <state x="951" y="260" key="new project wizard" timestamp="1600102763846">
+    <state x="924" y="263" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1600261526907">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="951" y="260" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1600102763846" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1600095189023">
+    <state x="924" y="263" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1600261526907" />
+    <state x="938" y="285" key="new project wizard" timestamp="1600263593122">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600095189023" />
+    <state x="938" y="285" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1600263593122" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1600188043618">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600188043618" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/stage-2/stage-2-lesson-3/src/main/java/com/zhang/deep/in/java/collection/IdentityHashMapDemo.java</url>
           <line>68</line>
           <option name="timeStamp" value="1" />

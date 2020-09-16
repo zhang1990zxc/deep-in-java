@@ -52,6 +52,7 @@ public class ThreadWaitAndNotifyDemo {
             try {
                 System.out.printf("线程[%s] 进入等待状态...\n", currentThread.getName());
                 monitor.wait();
+                Thread.sleep(3000);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             } finally {
