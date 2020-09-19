@@ -16,11 +16,11 @@ public class DeadLockDemo {
             synchronized (m1) {
                 System.out.printf("Thread[ ID : %d] holds m1\n", Thread.currentThread().getId());
 
-                try {
+               /* try {
                     Thread.sleep(1000);
                 } catch (InterruptedException e) {
                     e.printStackTrace();
-                }
+                }*/
                 synchronized (m2) {
                     System.out.printf("Thread[ ID : %d] holds m2\n", Thread.currentThread().getId());
                 }
@@ -31,11 +31,11 @@ public class DeadLockDemo {
             synchronized (m2) {
                 System.out.printf("Thread[ ID : %d] holds m2\n", Thread.currentThread().getId());
 
-                try {
+                /*try {
                     Thread.sleep(1000);
                 } catch (InterruptedException e) {
                     e.printStackTrace();
-                }
+                }*/
                 synchronized (m1) {
                     System.out.printf("Thread[ ID : %d] holds m1\n", Thread.currentThread().getId());
                 }
